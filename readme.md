@@ -5,14 +5,17 @@
 
 spmb-stis-2024-capstone/
 │
-├── data/
-|   └── spmb2024_1_skd_polstatstis.csv                    
+├── data/                         
+│   └── spmb2024_1_skd_polstatstis.csv   
+│
 ├── notebook/
-│   └── analysis_skd_stis.ipynb  
+│   └── analysis_skd_stis.ipynb          
+│
 ├── output/
-│   └── summary_insight_skd.md   
-├── requirements.txt             
-├── README.md                    
+│   └── summary_insight_skd.md           
+│
+├── requirements.txt                     
+└── README.md                            
 
 ---
 
