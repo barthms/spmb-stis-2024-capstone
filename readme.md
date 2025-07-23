@@ -2,6 +2,7 @@
 🌟 Proyek ini bertujuan untuk menganalisis data seleksi masuk STIS tahun 2024, mengklasifikasikan peserta berdasarkan tahap seleksi, serta memberikan insight dan rekomendasi kebijakan penerimaan berdasarkan tren yang teridentifikasi
 
 ---
+
 spmb-stis-2024-capstone/
 │
 ├── data/
