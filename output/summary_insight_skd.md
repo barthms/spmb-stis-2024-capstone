@@ -28,13 +28,15 @@ Proyek ini menganalisis hasil Seleksi Kompetensi Dasar (SKD) dari SPMB Politekni
 
 ## 🧠 Insight AI (Summarization)
 
-> Dari hasil analisis terhadap data peserta, ditemukan bahwa TKP adalah subtes paling menentukan kelulusan. Peserta yang lulus cenderung memiliki nilai TKP yang tinggi dan stabil (rata-rata di atas 190), sementara kelompok tidak lulus memiliki variasi besar pada TWK dan TIU, bahkan banyak peserta yang mendapat nilai ekstrem rendah (< 50). Perbedaan rata-rata total nilai antara dua kelompok mencapai lebih dari 100 poin.
+1. TKP merupakan subtes paling berpengaruh terhadap kelulusan, dengan peserta lulus memiliki nilai TKP yang tinggi dan stabil (rata-rata > 190).
 
-> TKP menjadi faktor penentu utama kelulusan, karena peserta lulus memiliki nilai TKP yang konsisten tinggi dan stabil.
+2. Peserta tidak lulus menunjukkan variasi besar pada nilai TWK dan TIU, termasuk banyak yang memiliki skor ekstrem rendah (< 50).
 
-> Nilai TWK dan TIU pada kelompok tidak lulus sangat bervariasi, dengan ratusan peserta memiliki skor < 50 — menunjukkan kurangnya kesiapan di materi dasar kebangsaan & logika.
+3. Nilai total peserta lulus hampir selalu di atas 400, sedangkan peserta tidak lulus mayoritas berada di kisaran 300-an.
 
-> Pola distribusi total nilai menunjukkan bahwa peserta yang lulus hampir tidak pernah memiliki total < 400, sedangkan mayoritas tidak lulus berkisar di 300-an.
+4. Nilai TWK dan TIU rendah mencerminkan kurangnya kesiapan peserta dalam aspek kebangsaan dan logika dasar.
+
+5. Selisih rata-rata total nilai antara peserta lulus dan tidak lulus melebihi 100 poin, mengindikasikan gap performa yang signifikan.
 
 ---
 
